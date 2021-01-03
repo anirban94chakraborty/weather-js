@@ -1,6 +1,6 @@
 # WeatherJS
 
->__Live Demo:__ https://anirban-js-miniprojects.imfast.io/weather-js/
+>__Live Demo:__ https://anirbanc-weather-js.netlify.app/
 
 __Developed Using:__
 
